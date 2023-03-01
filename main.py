@@ -13,4 +13,5 @@ def print_hi(name):
 if __name__ == '__main__':
     print_hi('not sosat')
     print('I sosat not')
+    print('seksi')
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
